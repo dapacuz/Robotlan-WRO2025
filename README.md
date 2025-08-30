@@ -1,17 +1,17 @@
-Engineering materials
+Contenido
 ====
 
-This repository contains engineering materials of a self-driven vehicle's model participating in the National WRO El Salvador Future Engineers competition in the season 2025.
+Este repositorio contiene los materiales y proceso de construcción del vehículo autónomo para el Torneo Nacional WRO El Salvador 2025 en la categoria Future Engineers.
 
-## Content
+# Content
 
-* `t-photos` contains 2 photos of the Robotlan-team (an official one and one funny photo)
-* `v-photos` contains 6 photos of the vehicle (from every side, from top and bottom)
-* `video` contains the video.md file with the link to a video where driving demonstration exists
-* `schemes` contains schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.)
-* `src` contains code of control software for all components which were programmed in Arduino IDE to participate in the competition
-* `models` is for the files for models used by 3D printers, and laser cutting machines to produce the vehicle elements.
-* `other` is for other files which can be used to understand how to prepare the vehicle for the competition. It includes documentation (how to connect to a SBC/SBM and upload files there, datasets, hardware specifications, communication protocols descriptions etc.
+* `t-photos` contiene 2 fotos del equipo
+* `v-photos` contiene 6 fotos del vehículo (una de cada ángulo, desde arriba y abajo)
+* `video` contiene el archivo de video con una demostración de manejo
+* `schemes` contiene diagramas en formato JPEG, PNG o PDF de los componentes electromecánicos e ilustraciones de todos los elementos (componentes electrónicos y motores) utilizados en el vehículo, además de cómo se conectan entre sí.
+* `src` contiene el código de control de sodtware para todos los componentes. Fue programado en Arduino IDE.
+* `models` es para los archivos de los modelos diseñados por nosotras y utilizados por las impresoras 3D y máquinas para cortar láser con las que se fabricaron los elementos del vehículo. 
+* `other` contiene otros archivos sobre cómo se preparó el vehículo para la competencia, documentación, especificaciones, protocolos de comunicación etc.
 
 # Nuestro robot
 Nuestro robot, Jonny Carre Bravo, es una creación hecha a partir de distintos competentes diseñados por nosotras para la categoría Future Engineers.
